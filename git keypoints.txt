@@ -1,0 +1,15 @@
+git inti 
+
+git status 
+
+git help config
+
+git add .
+
+git add <filename>
+
+git commit -m "message"
+
+git remote add origin <paste url>
+
+git push -u origin branchname
